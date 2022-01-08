@@ -1,0 +1,17 @@
+.active{
+  border: 1px solid #4c719e;
+  font-weight: bold;
+  color: #9b7278;
+  border-radius: 5px;
+  padding: .2rem 1rem;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.25);
+  font-size: 1.3rem;
+  transform: translateY(-3px);
+}
+  .inactive{
+  font-size: 1.3rem;
+  border: 1px solid #6886aa;
+  color: #6886aa;
+  border-radius: 5px;
+  padding: .2rem 1rem;
+}
